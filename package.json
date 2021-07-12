@@ -1,24 +1,17 @@
+
 {
-  "name": "myrestaraunt",
+  "name": "sequelize-intro",
   "version": "1.0.0",
-  "description": "restarant exercise",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jamesg88/myRestaraunt-.git"
-  },
-  "author": "James G.",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jamesg88/myRestaraunt-/issues"
-  },
-  "homepage": "https://github.com/jamesg88/myRestaraunt-#readme",
   "dependencies": {
+    "jest": "^27.0.6",
     "sequelize": "^6.6.5",
-    "sqlite": "^4.0.23"
-  },
-  "devDependencies": {}
+    "sqlite3": "^5.0.2"
+  }
 }
