@@ -1,0 +1,24 @@
+{
+  "name": "myrestaraunt",
+  "version": "1.0.0",
+  "description": "restarant exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesg88/myRestaraunt-.git"
+  },
+  "author": "James G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesg88/myRestaraunt-/issues"
+  },
+  "homepage": "https://github.com/jamesg88/myRestaraunt-#readme",
+  "dependencies": {
+    "sequelize": "^6.6.5",
+    "sqlite": "^4.0.23"
+  },
+  "devDependencies": {}
+}
